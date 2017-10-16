@@ -1,0 +1,40 @@
+body {
+	background-image: url(dach-pattern.jpg);
+}
+.contenedor {
+	background-color: deeppink;
+	overflow: hidden;
+	font-family: 'Pacifico', cursive;
+	color: white;
+	
+}
+
+li {
+	float: left;
+	height: 40px;
+	margin: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: deeppink;
+}
+
+.img1 {
+	float: right;
+	margin: 0em 2em;
+	border: 5px solid deeppink;
+	height: 200px;
+}
+
+.img2 {
+	float: left;
+	margin: 0em 2em;
+	border: 5px solid deeppink;
+}
+
+p {
+	text-align: justify;
+	background-color:  rgba(255,255,255,0.8)
+}
